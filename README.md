@@ -28,10 +28,9 @@
 * Node.js
 * Express.js
 * REST APIs
+* Databases (MongoDB / SQL)
 
 **Currently Learning**
-
-* Databases (MongoDB / SQL)
 * Backend architecture & best practices
 * React (planned)
 
