@@ -20,6 +20,8 @@
 **Languages & Core Skills**
 
 * JavaScript (ES6+)
+* C++
+* Python
 * HTML5, CSS3
 * Git & GitHub
 
