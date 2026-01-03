@@ -1,84 +1,77 @@
 # Hi, I'm Hrishi 👋
 
-🎓 **Computer Engineering Student**
-💻 **Aspiring Software / Web Developer**
-🚀 Actively learning and building projects to prepare for **internship opportunities**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hrisshhii&style=flat&color=blue" alt="Profile views" />
+</p>
+
+<p align="center">
+  <b>Computer Engineering Student</b> • Aspiring Software Developer • Open to Internships
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-* I’m a computer engineering student focused on **JavaScript and backend development**
-* I enjoy building projects from scratch and improving them step by step
-* Currently strengthening my fundamentals in **JavaScript, Git/GitHub, Node.js, and Express**
-* Believe in learning by **building real projects**, not just watching tutorials
+- 🎓 Computer Engineering student focused on **strong fundamentals**
+- 💡 Learning by **building real projects**, not just following tutorials
+- 🔁 Actively improving skills in **JavaScript, backend development, and Git**
+- 🎯 Goal: Secure a **software development internship**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages & Core Skills**
+### 💻 Languages & Core
 
-* JavaScript (ES6+)
-* C++
-* Python
-* HTML5, CSS3
-* Git & GitHub
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Backend**
+### 🌐 Web & Backend
 
-* Node.js
-* Express.js
-* REST APIs
-* Databases (MongoDB / SQL)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-**Currently Learning**
-* Backend architecture & best practices
-* React (planned)
+### ⚙️ Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
 ## 📂 Featured Projects
 
-### 📌 JavaScript Course & Practice Repo
-
-* Structured JavaScript learning repository
-* Covers fundamentals with examples and practice
-* Regularly updated with new concepts
+### 📌 JavaScript Course & Practice
+- Structured JavaScript learning repository
+- Covers fundamentals with examples and practice problems
+- Regular, meaningful commits
 
 ### 📌 BOOKD (Backend Project)
+- Backend project using **Node.js and Express**
+- Environment-based configuration
+- Built as a foundation for a book-based application
 
-* Node.js + Express backend project
-* Environment-based configuration
-* Designed as a base for a book-related application
-
-> More projects coming as I continue learning 🚧
-
----
-
-## 🎯 Current Goals
-
-* Build strong **JavaScript fundamentals**
-* Create 2–3 solid, real-world projects
-* Improve problem-solving and clean code practices
-* Secure a **software development internship**
+> 🚧 More projects coming as I continue learning and building
 
 ---
 
-## 📈 What You’ll See on My GitHub
+## 🎯 Current Focus
 
-* Consistent commits
-* Well-structured learning repositories
-* Projects evolving over time
-* Clean READMEs and documentation
+- Deepening **JavaScript fundamentals**
+- Backend development with Node.js
+- Writing clean, readable, and maintainable code
+- Improving Git & GitHub workflow
 
 ---
 
 ## 🤝 Let’s Connect
 
-* 💼 Open to **internship opportunities**
-* 🌱 Always open to learning and feedback
+- 💼 Open to **internship opportunities**
+- 🌱 Always open to learning, feedback, and collaboration
 
 ---
 
-⭐ *Thanks for visiting my profile!*
+⭐ Thanks for visiting my GitHub profile!
