@@ -67,6 +67,16 @@
 
 ---
 
+## 🧠 Problem Solving & DSA
+
+- Strong understanding of **DSA fundamentals**
+- Comfortable with:
+  - Arrays, Strings, Recursion
+  - Linked Lists, Stacks, Queues
+  - Hashing
+  - Basic Trees & Searching/Sorting
+- Regularly practice problem-solving to improve logic and efficiency
+
 ## 🤝 Let’s Connect
 
 - 💼 Open to **internship opportunities**
@@ -75,3 +85,8 @@
 ---
 
 ⭐ Thanks for visiting my GitHub profile!
+
+## 📊 GitHub Stats
+
+![Hrishi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hrisshhii&show_icons=true&theme=react)
+
