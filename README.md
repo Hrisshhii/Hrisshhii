@@ -86,7 +86,8 @@
 
 ⭐ Thanks for visiting my GitHub profile!
 
-## 📊 GitHub Stats
+## 🔥 GitHub Streak
 
-![Hrishi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hrisshhii&show_icons=true&theme=react)
+![GitHub Streak](https://streak-stats.demolab.com?user=Hrisshhii)
+
 
