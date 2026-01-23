@@ -5,17 +5,18 @@
 </p>
 
 <p align="center">
-  <b>Computer Engineering Student</b> • Aspiring Software Developer • Open to Internships
+  <b>Computer Engineering Student</b> • Aspiring Full-Stack Developer • Open to Internships
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Engineering student focused on **strong fundamentals**
-- 💡 Learning by **building real projects**, not just following tutorials
-- 🔁 Actively improving skills in **JavaScript, backend development, and Git**
-- 🎯 Goal: Secure a **software development internship**
+- 🎓 Computer Engineering student building **strong CS & development fundamentals**
+- 💡 Learn by **building real projects**, not just watching tutorials
+- 🔁 Currently working with **JavaScript, TypeScript, React, Node.js**
+- ⚛️ Building multiple **React mini-projects** to strengthen UI & state management
+- 🎯 Goal: Secure a **Software Development Internship**
 
 ---
 
@@ -24,13 +25,18 @@
 ### 💻 Languages & Core
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🌐 Web & Backend
+### 🌐 Web & Frontend
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🖥️ Backend
+
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
@@ -44,43 +50,56 @@
 
 ## 📂 Featured Projects
 
-### 📌 JavaScript Course & Practice
-- Structured JavaScript learning repository
-- Covers fundamentals with examples and practice problems
-- Regular, meaningful commits
+### 📌 JavaScript & TypeScript Practice
+- Structured learning repositories
+- Covers fundamentals, edge cases, and real-world patterns
+- Clean commits with proper Git workflow
+
+### 📌 React Mini Projects
+- Multiple small-to-medium React apps:
+  - State management practice
+  - API integration
+  - Component architecture
+  - Responsive UI
+- Built to strengthen core React concepts, not just UI
 
 ### 📌 BOOKD (Backend Project)
-- Backend project using **Node.js and Express**
+- Node.js + Express backend
 - Environment-based configuration
-- Built as a foundation for a book-based application
+- REST APIs for a book-based platform
+- Designed with scalability and clean structure in mind
 
-> 🚧 More projects coming as I continue learning and building
+> 🚧 More full-stack projects coming (React + TypeScript + Node)
 
 ---
 
 ## 🎯 Current Focus
 
-- Deepening **JavaScript fundamentals**
-- Backend development with Node.js
-- Writing clean, readable, and maintainable code
-- Improving Git & GitHub workflow
+- Mastering **TypeScript with React**
+- Writing scalable React components
+- Backend APIs with Node.js & Express
+- Clean code, folder structure & Git practices
+- Preparing for **internship-level interviews**
 
 ---
 
 ## 🧠 Problem Solving & DSA
 
-- Strong understanding of **DSA fundamentals**
+- Strong in **DSA fundamentals**
 - Comfortable with:
   - Arrays, Strings, Recursion
   - Linked Lists, Stacks, Queues
   - Hashing
-  - Basic Trees & Searching/Sorting
-- Regularly practice problem-solving to improve logic and efficiency
+  - Trees, Searching & Sorting
+- Regular practice to improve logic & time complexity
+
+---
 
 ## 🤝 Let’s Connect
 
-- 💼 Open to **internship opportunities**
-- 🌱 Always open to learning, feedback, and collaboration
+- 💼 Actively looking for **Software Development Internships**
+- 🌱 Always open to collaboration, feedback, and learning
+- 🚀 Passionate about becoming a strong full-stack engineer
 
 ---
 
