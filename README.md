@@ -1,19 +1,26 @@
-# Hi, I'm Hrishi 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Hrishi+%F0%9F%91%8B;Computer+Engineering+Student;Aspiring+Full-Stack+Developer" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Hrisshhii&style=flat&color=blue" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00E5FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Hrishi+%F0%9F%91%8B;Computer+Engineering+Student;Aspiring+Full-Stack+Developer" />
+  <b>Computer Engineering Student</b> • Aspiring Full-Stack Developer • Open to Internships
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Currently%20Learning-Next.js%20|%20Advanced%20TypeScript%20|%20DSA-7B2FFF?style=for-the-badge&logo=react&logoColor=white" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:7B2FFF&height=2&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:7B2FFF&height=2"/>
 </p>
+
 - 🎓 Computer Engineering student building **strong CS & development fundamentals**
 - 💡 Learn by **building real projects**, not just watching tutorials
 - 🔁 Currently working with **JavaScript, TypeScript, React, Node.js**
@@ -23,7 +30,10 @@
 ---
 
 ## 🛠️ Tech Stack
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:7B2FFF&height=2"/>
+</p>
+
 | Category | Tools |
 |---------|------|
 | **Languages** | ![JS](https://skillicons.dev/icons?i=js) ![TS](https://skillicons.dev/icons?i=ts) ![C++](https://skillicons.dev/icons?i=cpp) ![Python](https://skillicons.dev/icons?i=python) |
@@ -31,12 +41,13 @@
 | **Backend** | ![Node](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) |
 | **Databases** | ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql) |
 | **Tools** | ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode) |
-</div>
-<p align="center">
-  <img src="https://img.shields.io/badge/Currently%20Learning-Next.js%20|%20Advanced%20TypeScript%20|%20DSA-blue?style=flat-square" />
-</p>
+
+---
 
 ## 📂 Featured Projects
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:7B2FFF&height=2"/>
+</p>
 
 ### 📌 JavaScript & TypeScript Practice
 - Structured learning repositories
@@ -44,51 +55,27 @@
 - Clean commits with proper Git workflow
 
 ### 📌 React Mini Projects
-- Multiple small-to-medium React apps:
-  - State management practice
-  - API integration
-  - Component architecture
-  - Responsive UI
-- Built to strengthen core React concepts, not just UI
+- State management, API integration, component architecture, responsive UI
 
 ### 📌 BOOKD (Backend Project)
 - Node.js + Express backend
-- Environment-based configuration
-- REST APIs for a book-based platform
-- Designed with scalability and clean structure in mind
-
-> 🚧 More full-stack projects coming (React + TypeScript + Node)
+- REST APIs, scalable structure, clean config
 
 ---
 
 ## 🎯 Current Focus
-
-- Mastering **TypeScript with React**
-- Writing scalable React components
-- Backend APIs with Node.js & Express
-- Clean code, folder structure & Git practices
-- Preparing for **internship-level interviews**
+- TypeScript with React
+- Scalable components
+- Node.js backend design
+- Internship interview prep
 
 ---
 
-## 🧠 Problem Solving & DSA
-
-- Strong in **DSA fundamentals**
-- Comfortable with:
-  - Arrays, Strings, Recursion
-  - Linked Lists, Stacks, Queues
-  - Hashing
-  - Trees, Searching & Sorting
-- Regular practice to improve logic & time complexity
+## 🧠 DSA
+- Arrays, Strings, Recursion  
+- Linked Lists, Stacks, Queues  
+- Hashing, Trees, Sorting, Searching  
 
 ---
 
-## 🤝 Let’s Connect
-
-- 💼 Actively looking for **Software Development Internships**
-- 🌱 Always open to collaboration, feedback, and learning
-- 🚀 Passionate about becoming a strong full-stack engineer
-
----
-
-⭐ Thanks for visiting my GitHub profile!
+⭐ *Thanks for visiting my GitHub profile!*
