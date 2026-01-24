@@ -1,15 +1,11 @@
 # Hi, I'm Hrishi 👋
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hrisshhii&style=flat&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Hrisshhii&style=flat&color=blue" />
 </p>
 
 <p align="center">
   <b>Computer Engineering Student</b> • Aspiring Full-Stack Developer • Open to Internships
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Currently%20Learning-Next.js%20%7C%20TypeScript%20Advanced%20%7C%20DSA-blueviolet?style=for-the-badge&logo=react" />
 </p>
 
 ---
@@ -26,19 +22,17 @@
 
 ## 🛠️ Tech Stack
 
+| Category | Tools |
+|---------|------|
+| **Languages** | ![JS](https://skillicons.dev/icons?i=js) ![TS](https://skillicons.dev/icons?i=ts) ![C++](https://skillicons.dev/icons?i=cpp) ![Python](https://skillicons.dev/icons?i=python) |
+| **Frontend** | ![React](https://skillicons.dev/icons?i=react) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) |
+| **Backend** | ![Node](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) |
+| **Databases** | ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql) |
+| **Tools** | ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode) |
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Tech%20Stack-Glow-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Currently%20Learning-Next.js%20|%20Advanced%20TypeScript%20|%20DSA-blue?style=flat-square" />
 </p>
-
-| Category   | Tools |
-|------------|-------|
-| **Languages** | ![JS](https://skillicons.dev/icons?i=js) JavaScript &nbsp; ![TS](https://skillicons.dev/icons?i=ts) TypeScript &nbsp; ![C++](https://skillicons.dev/icons?i=cpp) C++ &nbsp; ![Python](https://skillicons.dev/icons?i=python) Python |
-| **Frontend** | ![React](https://skillicons.dev/icons?i=react) React &nbsp; ![HTML](https://skillicons.dev/icons?i=html) HTML5 &nbsp; ![CSS](https://skillicons.dev/icons?i=css) CSS3 |
-| **Backend** | ![Node](https://skillicons.dev/icons?i=nodejs) Node.js &nbsp; ![Express](https://skillicons.dev/icons?i=express) Express.js |
-| **Databases** | ![MongoDB](https://skillicons.dev/icons?i=mongodb) MongoDB &nbsp; ![MySQL](https://skillicons.dev/icons?i=mysql) MySQL |
-| **Tools** | ![Git](https://skillicons.dev/icons?i=git) Git &nbsp; ![GitHub](https://skillicons.dev/icons?i=github) GitHub &nbsp; ![VSCode](https://skillicons.dev/icons?i=vscode) VS Code |
-
----
 
 ## 📂 Featured Projects
 
