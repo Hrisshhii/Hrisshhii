@@ -23,38 +23,48 @@
 ## 🛠️ Tech Stack
 
 ### Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
-  <img src="https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00599C"/>
-  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB"/>
+<p style="font-size:14px;">
+  <img height="36" src="https://skillicons.dev/icons?i=js" />  JavaScript
+  &nbsp;&nbsp;&nbsp;
+  <img height="36" src="https://skillicons.dev/icons?i=ts" />  TypeScript
+  &nbsp;&nbsp;&nbsp;
+  <img height="36" src="https://skillicons.dev/icons?i=cpp" />  C++
+  &nbsp;&nbsp;&nbsp;
+  <img height="36" src="https://skillicons.dev/icons?i=python" />  Python
 </p>
 
 ### Frontend
-<p align="center">
-  <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-  <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+<p style="font-size:14px;">
+  <img height="36" src="https://skillicons.dev/icons?i=react" />  React
+  &nbsp;&nbsp;&nbsp;
+  <img height="36" src="https://skillicons.dev/icons?i=html" />  HTML5
+  &nbsp;&nbsp;&nbsp;
+  <img height="36" src="https://skillicons.dev/icons?i=css" />  CSS3
 </p>
 
 ### Backend
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=3C873A"/>
-  <img src="https://img.shields.io/badge/Express.js-0d1117?style=for-the-badge&logo=express&logoColor=white"/>
+<p style="font-size:14px;">
+  <img height="36" src="https://skillicons.dev/icons?i=nodejs" />  Node.js
+  &nbsp;&nbsp;&nbsp;
+  <img height="36" src="https://skillicons.dev/icons?i=express" />  Express.js
 </p>
 
 ### Databases
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
-  <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=00758F"/>
+<p style="font-size:14px;">
+  <img height="36" src="https://skillicons.dev/icons?i=mongodb" />  MongoDB
+  &nbsp;&nbsp;&nbsp;
+  <img height="36" src="https://skillicons.dev/icons?i=mysql" />  MySQL
 </p>
 
 ### Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032"/>
-  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
+<p style="font-size:14px;">
+  <img height="36" src="https://skillicons.dev/icons?i=git" />  Git
+  &nbsp;&nbsp;&nbsp;
+  <img height="36" src="https://skillicons.dev/icons?i=github" />  GitHub
+  &nbsp;&nbsp;&nbsp;
+  <img height="36" src="https://skillicons.dev/icons?i=vscode" />  VS Code
 </p>
+
 
 ---
 
