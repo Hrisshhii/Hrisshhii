@@ -22,39 +22,31 @@
 
 ## 🛠️ Tech Stack
 
-### Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
-  <img src="https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00599C"/>
-  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB"/>
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,python&theme=dark" />
 </p>
 
-### Frontend
-<p align="center">
-  <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-  <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" />
 </p>
 
-### Backend
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=3C873A"/>
-  <img src="https://img.shields.io/badge/Express.js-0d1117?style=for-the-badge&logo=express&logoColor=white"/>
+### 🖥️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
 </p>
 
-### Databases
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
-  <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=00758F"/>
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
 </p>
 
-### Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032"/>
-  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
+### ⚙️ Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 </p>
+
 
 ---
 
