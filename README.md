@@ -22,49 +22,13 @@
 
 ## 🛠️ Tech Stack
 
-### Languages
-<p style="font-size:14px;">
-  <img height="36" src="https://skillicons.dev/icons?i=js" />  JavaScript
-  &nbsp;&nbsp;&nbsp;
-  <img height="36" src="https://skillicons.dev/icons?i=ts" />  TypeScript
-  &nbsp;&nbsp;&nbsp;
-  <img height="36" src="https://skillicons.dev/icons?i=cpp" />  C++
-  &nbsp;&nbsp;&nbsp;
-  <img height="36" src="https://skillicons.dev/icons?i=python" />  Python
-</p>
-
-### Frontend
-<p style="font-size:14px;">
-  <img height="36" src="https://skillicons.dev/icons?i=react" />  React
-  &nbsp;&nbsp;&nbsp;
-  <img height="36" src="https://skillicons.dev/icons?i=html" />  HTML5
-  &nbsp;&nbsp;&nbsp;
-  <img height="36" src="https://skillicons.dev/icons?i=css" />  CSS3
-</p>
-
-### Backend
-<p style="font-size:14px;">
-  <img height="36" src="https://skillicons.dev/icons?i=nodejs" />  Node.js
-  &nbsp;&nbsp;&nbsp;
-  <img height="36" src="https://skillicons.dev/icons?i=express" />  Express.js
-</p>
-
-### Databases
-<p style="font-size:14px;">
-  <img height="36" src="https://skillicons.dev/icons?i=mongodb" />  MongoDB
-  &nbsp;&nbsp;&nbsp;
-  <img height="36" src="https://skillicons.dev/icons?i=mysql" />  MySQL
-</p>
-
-### Tools
-<p style="font-size:14px;">
-  <img height="36" src="https://skillicons.dev/icons?i=git" />  Git
-  &nbsp;&nbsp;&nbsp;
-  <img height="36" src="https://skillicons.dev/icons?i=github" />  GitHub
-  &nbsp;&nbsp;&nbsp;
-  <img height="36" src="https://skillicons.dev/icons?i=vscode" />  VS Code
-</p>
-
+| Category   | Tools |
+|------------|-------|
+| **Languages** | ![JS](https://skillicons.dev/icons?i=js) JavaScript &nbsp; ![TS](https://skillicons.dev/icons?i=ts) TypeScript &nbsp; ![C++](https://skillicons.dev/icons?i=cpp) C++ &nbsp; ![Python](https://skillicons.dev/icons?i=python) Python |
+| **Frontend** | ![React](https://skillicons.dev/icons?i=react) React &nbsp; ![HTML](https://skillicons.dev/icons?i=html) HTML5 &nbsp; ![CSS](https://skillicons.dev/icons?i=css) CSS3 |
+| **Backend** | ![Node](https://skillicons.dev/icons?i=nodejs) Node.js &nbsp; ![Express](https://skillicons.dev/icons?i=express) Express.js |
+| **Databases** | ![MongoDB](https://skillicons.dev/icons?i=mongodb) MongoDB &nbsp; ![MySQL](https://skillicons.dev/icons?i=mysql) MySQL |
+| **Tools** | ![Git](https://skillicons.dev/icons?i=git) Git &nbsp; ![GitHub](https://skillicons.dev/icons?i=github) GitHub &nbsp; ![VSCode](https://skillicons.dev/icons?i=vscode) VS Code |
 
 ---
 
