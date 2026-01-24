@@ -8,6 +8,10 @@
   <b>Computer Engineering Student</b> • Aspiring Full-Stack Developer • Open to Internships
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Currently%20Learning-Next.js%20%7C%20TypeScript%20Advanced%20%7C%20DSA-blueviolet?style=for-the-badge&logo=react" />
+</p>
+
 ---
 
 ## 👨‍💻 About Me
@@ -21,6 +25,10 @@
 ---
 
 ## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Tech%20Stack-Glow-blue?style=for-the-badge" />
+</p>
 
 | Category   | Tools |
 |------------|-------|
