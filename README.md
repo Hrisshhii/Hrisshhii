@@ -17,6 +17,7 @@
 - 🔁 Currently working with **JavaScript, TypeScript, React, Node.js**
 - ⚛️ Building multiple **React mini-projects** to strengthen UI & state management
 - 🎯 Goal: Secure a **Software Development Internship**
+> Building scalable full-stack web applications with a focus on clean code, performance, and real-world problem solving.
 
 ---
 
@@ -46,11 +47,17 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+### 📚 Currently Learning
+- Next.js
+- Advanced TypeScript Patterns
+- Data Structures & Algorithms (Interview Prep)
+
 ---
 
 ## 📂 Featured Projects
 
 ### 📌 JavaScript & TypeScript Practice
+Demo: https://hrisshhii.github.io/react-practice/
 - Structured learning repositories
 - Covers fundamentals, edge cases, and real-world patterns
 - Clean commits with proper Git workflow
