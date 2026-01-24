@@ -31,7 +31,7 @@
 | **Backend** | ![Node](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) |
 | **Databases** | ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql) |
 | **Tools** | ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode) |
-<div>
+</div>
 <p align="center">
   <img src="https://img.shields.io/badge/Currently%20Learning-Next.js%20|%20Advanced%20TypeScript%20|%20DSA-blue?style=flat-square" />
 </p>
