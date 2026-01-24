@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Hrishi+%F0%9F%91%8B;" />
+  <img src="https://komarev.com/ghpvc/?username=Hrisshhii&style=flat&color=blue" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hrisshhii&style=flat&color=blue" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Hrishi+%F0%9F%91%8B;" />
 </p>
 
 <p align="center">
@@ -21,6 +21,8 @@
 - 🔁 Currently working with **JavaScript, TypeScript, React, Node.js**
 - ⚛️ Building multiple **React mini-projects** to strengthen UI & state management
 - 🎯 Goal: Secure a **Software Development Internship**
+- Building full-stack web applications with a focus on clean code, performance, and real-world problem solving.
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:7B2FFF&height=2"/>
