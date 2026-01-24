@@ -1,18 +1,14 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hrisshhii&style=flat&color=blue" />
-</p>
+# Hi, I'm Hrishi 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Hrishi+%F0%9F%91%8B;" />
+  <img src="https://komarev.com/ghpvc/?username=Hrisshhii&style=flat&color=blue" alt="Profile views" />
 </p>
 
 <p align="center">
   <b>Computer Engineering Student</b> • Aspiring Full-Stack Developer • Open to Internships
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:7B2FFF&height=2"/>
-</p>
+---
 
 ## 👨‍💻 About Me
 
@@ -21,31 +17,36 @@
 - 🔁 Currently working with **JavaScript, TypeScript, React, Node.js**
 - ⚛️ Building multiple **React mini-projects** to strengthen UI & state management
 - 🎯 Goal: Secure a **Software Development Internship**
-- Building full-stack web applications with a focus on clean code, performance, and real-world problem solving.
 
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:7B2FFF&height=2"/>
-</p>
+---
 
 ## 🛠️ Tech Stack
 
-| Category | Tools |
-|---------|------|
-| **Languages** | ![JS](https://skillicons.dev/icons?i=js) ![TS](https://skillicons.dev/icons?i=ts) ![C++](https://skillicons.dev/icons?i=cpp) ![Python](https://skillicons.dev/icons?i=python) |
-| **Frontend** | ![React](https://skillicons.dev/icons?i=react) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) |
-| **Backend** | ![Node](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) |
-| **Databases** | ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql) |
-| **Tools** | ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode) |
+### 💻 Languages & Core
 
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Currently%20Learning-Next.js%20|%20Advanced%20TypeScript%20|%20DSA-7B2FFF?style=for-the-badge&logo=react&logoColor=white" />
-</p>
+### 🌐 Web & Frontend
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:7B2FFF&height=2"/>
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🖥️ Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### ⚙️ Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
 
 ## 📂 Featured Projects
 
@@ -55,33 +56,51 @@
 - Clean commits with proper Git workflow
 
 ### 📌 React Mini Projects
-- State management, API integration, component architecture, responsive UI
+- Multiple small-to-medium React apps:
+  - State management practice
+  - API integration
+  - Component architecture
+  - Responsive UI
+- Built to strengthen core React concepts, not just UI
 
 ### 📌 BOOKD (Backend Project)
 - Node.js + Express backend
-- REST APIs, scalable structure, clean config
+- Environment-based configuration
+- REST APIs for a book-based platform
+- Designed with scalability and clean structure in mind
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:7B2FFF&height=2"/>
-</p>
+> 🚧 More full-stack projects coming (React + TypeScript + Node)
+
+---
 
 ## 🎯 Current Focus
-- TypeScript with React
-- Scalable components
-- Node.js backend design
-- Internship interview prep
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:7B2FFF&height=2"/>
-</p>
+- Mastering **TypeScript with React**
+- Writing scalable React components
+- Backend APIs with Node.js & Express
+- Clean code, folder structure & Git practices
+- Preparing for **internship-level interviews**
 
-## 🧠 DSA
-- Arrays, Strings, Recursion  
-- Linked Lists, Stacks, Queues  
-- Hashing, Trees, Sorting, Searching  
+---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:7B2FFF&height=2"/>
-</p>
+## 🧠 Problem Solving & DSA
 
-⭐ *Thanks for visiting my GitHub profile!*
+- Strong in **DSA fundamentals**
+- Comfortable with:
+  - Arrays, Strings, Recursion
+  - Linked Lists, Stacks, Queues
+  - Hashing
+  - Trees, Searching & Sorting
+- Regular practice to improve logic & time complexity
+
+---
+
+## 🤝 Let’s Connect
+
+- 💼 Actively looking for **Software Development Internships**
+- 🌱 Always open to collaboration, feedback, and learning
+- 🚀 Passionate about becoming a strong full-stack engineer
+
+---
+
+⭐ Thanks for visiting my GitHub profile!
