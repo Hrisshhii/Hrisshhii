@@ -75,13 +75,8 @@ A high-fidelity frontend build focused on translating a professional therapy web
 
 > Demonstrates real-world frontend engineering practices and production UI thinking.
 
-### 📌 JavaScript & TypeScript Practice
+### 📌 JavaScript & TypeScript - React Mini Projects
 Demo: https://hrisshhii.github.io/react-practice/
-- Structured learning repositories
-- Covers fundamentals, edge cases, and real-world patterns
-- Clean commits with proper Git workflow
-
-### 📌 React Mini Projects
 - Multiple small-to-medium React apps:
   - State management practice
   - API integration
