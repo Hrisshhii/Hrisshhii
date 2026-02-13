@@ -1,4 +1,4 @@
-# Hi, I'm Hrishi 👋
+[# Hi, I'm Hrishi 👋
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Hrisshhii&style=flat&color=blue" alt="Profile views" />
@@ -57,6 +57,42 @@
 
 ---
 
+## ⭐ Featured Project — Production UI Case Study
+
+### 🧠 Therapy Website UI Case Study  
+**Next.js • Tailwind CSS • Responsive Design • Production UI**
+
+🔗 **Live Demo:** https://therapy-ui-case-study.vercel.app/  
+
+---
+
+### 🚀 Overview
+A high-fidelity frontend build focused on translating a professional therapy website design into a scalable, production-quality digital experience.
+
+This project emphasizes visual hierarchy, accessibility, responsive behavior, and clean component architecture — mirroring real-world business website requirements.
+
+---
+
+### ✨ Key Highlights
+- Built using **Next.js App Router** for modern routing and performance  
+- Styled with **Tailwind CSS** and reusable design tokens  
+- **Fully responsive** across desktop, tablet, and mobile  
+- Component-driven architecture for scalability  
+- Optimized static deployment for speed and reliability  
+- Designed with usability, readability, and emotional comfort in mind  
+
+---
+
+### 🧠 What This Demonstrates
+- Ability to convert professional UI designs into production-ready code  
+- Strong understanding of layout systems, spacing, and typography  
+- Focus on maintainable styling and scalable structure  
+- Real-world frontend engineering practices  
+
+> This project reflects my approach to building interfaces that are not only visually accurate, but also structured for long-term scalability.
+
+
+---
 ## 📂 Featured Projects
 
 ### 📌 JavaScript & TypeScript Practice
@@ -114,3 +150,4 @@ Demo: https://hrisshhii.github.io/react-practice/
 ---
 
 ⭐ Thanks for visiting my GitHub profile!
+](https://therapy-ui-case-study.vercel.app/)
