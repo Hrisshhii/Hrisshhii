@@ -1,4 +1,4 @@
-[# Hi, I'm Hrishi 👋
+# Hi, I'm Hrishi 👋
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Hrisshhii&style=flat&color=blue" alt="Profile views" />
@@ -118,4 +118,3 @@ Demo: https://hrisshhii.github.io/react-practice/
 ---
 
 ⭐ Thanks for visiting my GitHub profile!
-]
