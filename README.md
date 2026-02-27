@@ -83,11 +83,34 @@ Demo: https://hrisshhii.github.io/react-practice/
   - Responsive UI
 - Built to strengthen core React concepts, not just UI
 
-### 📌 BOOKD (Backend Project)
-- Node.js + Express backend
-- Environment-based configuration
-- REST APIs for a book-based platform
-- Designed with scalability and clean structure in mind
+### 💬 Tars Chat — Real-Time Full-Stack Chat Application  
+**Next.js • TypeScript • Convex • Clerk • Tailwind • Framer Motion**
+🔗 Live App: https://tars-chat-black.vercel.app
+
+A production-ready real-time chat application built as part of the Tars Full-Stack Engineering Internship Challenge.
+This project focuses on real-time architecture, clean schema design, authentication, and UI polish.
+
+**Core Features**
+- 🔐 Authentication using Clerk
+- ⚡ Real-time messaging powered by Convex
+- 👥 One-to-one and group conversations
+- 🟢 Live online presence tracking
+- ✍️ Typing indicators
+- 👀 Message seen status
+- 🗑️ Message deletion
+- 📱 Fully responsive UI
+- ✨ Smooth animations using Framer Motion
+
+**Technical Highlights**
+- Strong Convex schema design with indexed queries
+- Optimized real-time subscriptions
+- Clean component architecture
+- Production deployment with environment-based configuration
+- Proper separation of client/server logic
+- Deployed on Vercel with production Convex deployment
+
+> Demonstrates full-stack architecture thinking, real-time systems understanding, and production deployment workflow.
+---
 
 > 🚧 More full-stack projects coming (React + TypeScript + Node)
 
