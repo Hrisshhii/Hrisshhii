@@ -57,32 +57,6 @@
 ---
 ## 📂 Featured Projects
 
-
-### 🧠 Therapy Website — Production UI Case Study  
-**Next.js • Tailwind • Responsive Architecture**
-
-🔗 https://therapy-ui-case-study.vercel.app/
-
-A high-fidelity frontend build focused on translating a professional therapy website into a scalable, production-quality experience.
-
-**Highlights**
-- Modern Next.js App Router architecture  
-- Fully responsive across all devices  
-- Component-driven design  
-- Clean layout systems & typography  
-- Optimized static deployment  
-
-> Demonstrates real-world frontend engineering practices and production UI thinking.
-
-### 📌 JavaScript & TypeScript - React Mini Projects
-Demo: https://hrisshhii.github.io/react-practice/
-- Multiple small-to-medium React apps:
-  - State management practice
-  - API integration
-  - Component architecture
-  - Responsive UI
-- Built to strengthen core React concepts, not just UI
-
 ### 💬 Tars Chat — Real-Time Full-Stack Chat Application  
 **Next.js • TypeScript • Convex • Clerk • Tailwind • Framer Motion**
 
@@ -111,6 +85,32 @@ This project focuses on real-time architecture, clean schema design, authenticat
 - Deployed on Vercel with production Convex deployment
 
 > Demonstrates full-stack architecture thinking, real-time systems understanding, and production deployment workflow.
+
+### 🧠 Therapy Website — Production UI Case Study  
+**Next.js • Tailwind • Responsive Architecture**
+
+🔗 https://therapy-ui-case-study.vercel.app/
+
+A high-fidelity frontend build focused on translating a professional therapy website into a scalable, production-quality experience.
+
+**Highlights**
+- Modern Next.js App Router architecture  
+- Fully responsive across all devices  
+- Component-driven design  
+- Clean layout systems & typography  
+- Optimized static deployment  
+
+> Demonstrates real-world frontend engineering practices and production UI thinking.
+
+### 📌 JavaScript & TypeScript - React Mini Projects
+Demo: https://hrisshhii.github.io/react-practice/
+- Multiple small-to-medium React apps:
+  - State management practice
+  - API integration
+  - Component architecture
+  - Responsive UI
+- Built to strengthen core React concepts, not just UI
+
 ---
 
 > 🚧 More full-stack projects coming (React + TypeScript + Node)
