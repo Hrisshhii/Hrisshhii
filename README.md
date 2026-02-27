@@ -85,6 +85,7 @@ Demo: https://hrisshhii.github.io/react-practice/
 
 ### 💬 Tars Chat — Real-Time Full-Stack Chat Application  
 **Next.js • TypeScript • Convex • Clerk • Tailwind • Framer Motion**
+
 🔗 Live App: https://tars-chat-black.vercel.app
 
 A production-ready real-time chat application built as part of the Tars Full-Stack Engineering Internship Challenge.
